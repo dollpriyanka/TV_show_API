@@ -13,14 +13,4 @@ https://github.com/dollpriyanka/TV_show_API.git
 ```
 
 2. Go to the cloned directory
-3. Initialize the directory
 
-```sh
-npm init -y
-```
-
-4. Install dependencies
-
-```sh
-npm install
-```
